@@ -1,0 +1,32 @@
+.AdminLogin form{
+    display: grid;
+    padding: 50px;
+    grid-template-columns: 200px 300px;
+    justify-content: center;
+    box-shadow: 0px 0px 20px white;
+    border-radius: 20px;
+    width: 600px;
+    position: relative;
+    top: 30%;
+    left: 30%;
+
+}
+.AdminLogin label{
+    margin: 10px;
+}
+.AdminLogin input{
+    margin: 10px;
+}
+
+.AdminLogin{
+    height: 100vh;
+    background-image: url(https://wallpapers.com/images/featured/dark-theme-background-q62o6998n8bqxzrf.jpg);
+    color: white;
+    font-size: 20px;
+    
+}
+.AdminLogin p{
+   text-align: center;
+   /* margin-top: 300px; */
+   transform: translatey(230px);
+}

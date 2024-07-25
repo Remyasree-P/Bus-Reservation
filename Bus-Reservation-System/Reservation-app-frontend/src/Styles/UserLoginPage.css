@@ -1,0 +1,26 @@
+.UserLogin form{
+    display: grid;
+    grid-template-columns: 200px 300px ;
+    
+    width: 600px;
+    padding: 50px;
+    border-radius: 20px;
+    box-shadow: 0px 0px 20px white;
+    
+    position: relative;
+    top: 30%;
+    left: 30%;
+}
+.UserLogin{
+    height: 100vh;
+    background: url(https://wallpapersmug.com/large/8c9413/windows-11-blue-black-sheet-curvy.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    color: white;
+}
+.UserLogin input{
+    margin: 10px;
+}
+.UserLogin label{
+    margin: 10px;
+}

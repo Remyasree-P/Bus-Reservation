@@ -1,0 +1,14 @@
+.adminnavbar{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgb(138, 186, 199);
+    padding: 0px 50px;
+    height: 70px;
+}
+.adminnavbar .logo h1{
+    color:rgb(8, 86, 8);
+}
+.adminnavbar .logo sup{
+    color: green;
+}
